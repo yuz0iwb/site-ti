@@ -1,8 +1,8 @@
 # Trabalho Final de t.i do meu Ensino Médio
 ==Sobre o site== <br>
-Tela inicial + área "sobre mim" <br>
-5 áreas para cada área do conhecimento (com 3 trabalhos mais marcantes em cada) <br>
-5 áreas com informações de algumas tecnologias
+- Tela inicial + área "sobre mim" <br>
+- 5 áreas para cada área do conhecimento (com 3 trabalhos mais marcantes em cada) <br>
+- 5 áreas com informações de algumas tecnologias
 <br><br>
 
 ==Ver o site==<br>

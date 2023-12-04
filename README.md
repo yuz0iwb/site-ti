@@ -6,8 +6,10 @@
 <br><br>
 
 == Ver o site == <br>
-1- Clicar no borão verde "Code"<br>
-2- Baixar como zip<br>
-3- Extrair o arquivo do Git<br>
-4- Extrair o "Início"<br>
-5- Dois cliques no Index
+1- Clicar no borão verde "Code" <br>
+2- Baixar como zip <br>
+3- Extrair o arquivo do Git <br>
+4- Abrir a pasta <br>
+5- Extrair o "Início" <br>
+6- Abrir o Início <br>
+7- Dois cliques no Index
